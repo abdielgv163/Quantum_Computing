@@ -35,14 +35,22 @@ Dentro de cada sección se encuentran los notebooks y los programas en sus carpe
 ## Orden de contenidos
 
 
-3. [IBM Quantum Challenge 2021](https://github.com/abdielgv162/Quantum_Computing/tree/master/IBM_Quantum_Challenge_2021)
-    1. [Ejercicios en Inglés](https://github.com/abdielgv162/Quantum_Computing/tree/master/IBM_Quantum_Challenge_2021/Ejercicios_en_Ingles)      
-5. [Qiskit Global Summer School 2021: Quantum Machine Learning](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_QSS_2021_Quantum_Machine_Learning)
-   1. [Labs](https://github.com/abdielgv162/Quantum_Computing/tree/master/Qiskit_QSS_2021_Quantum_Machine_Learning/Labs)
-6. [IBM Quantum Challenge Africa 20021](https://github.com/abdielgv162/Quantum_Computing/tree/master/IBM_Quantum_Challenge_Africa_2021)
-    1. [Crop-Yield Problem](https://github.com/abdielgv162/Quantum_Computing/blob/master/IBM_Quantum_Challenge_Africa_2021/lab1_Crop-Yield-Problem.ipynb)
-    2. []()
-    3. []()
+1. [IBM Quantum Challenge 2021](https://github.com/abdielgv163/Quantum_Computing/tree/master/IBM_Quantum_Challenge_2021)
+    1. [Toffoli Gate](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_2021/ex1-Toffoli%20gate.ipynb)
+    2. [Shor's Algorithm](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_2021/ex2-Shor-s-algorithm.ipynb)      
+    3. [Quantum Error Correction](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_2021/ex3-Quantum-error-correction.ipynb)
+    4. [Transmon Qubit](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_2021/ex4-Transmon-qubit.ipynb)
+    5. [Variational quantum eigensolver - UNFINISHED](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_2021/ex5-Variational-quantum-eigensolver.ipynb)
+2. [Qiskit Global Summer School 2021: Quantum Machine Learning](https://github.com/abdielgv163/Quantum_Computing/tree/master/Qiskit_QSS_2021_Quantum_Machine_Learning/Labs)
+   1. [Basic Rotations, Multi-Qubit Gates and Deutsch-Jozsa Algorithm](https://github.com/abdielgv163/Quantum_Computing/blob/master/Qiskit_QSS_2021_Quantum_Machine_Learning/Labs/lab-1-BasicRotaions-MultiQubitGates-DeutsJozsa-Algorithm.ipynb)
+   2. [Introduction to Variational Algorithms](https://github.com/abdielgv163/Quantum_Computing/blob/master/Qiskit_QSS_2021_Quantum_Machine_Learning/Labs/lab-2-Introduction-to-Variational-Algorithms.ipynb)
+   3. [Quantum Kernels and Support Vector Machines](https://github.com/abdielgv163/Quantum_Computing/blob/master/Qiskit_QSS_2021_Quantum_Machine_Learning/Labs/lab-3-Quantum-Kernels-and-Support-Vector-Machines.ipynb)
+   4. [Training Parameterized Quantum Circuits](https://github.com/abdielgv163/Quantum_Computing/blob/master/Qiskit_QSS_2021_Quantum_Machine_Learning/Labs/lab-4-Training-Parameterized-Quantum-Circuits.ipynb)
+   5. [Hardware Efficient Ansatze for Quantum Machine Learning](https://github.com/abdielgv163/Quantum_Computing/blob/master/Qiskit_QSS_2021_Quantum_Machine_Learning/Labs/lab-5-Hardware-Efficient-Ansatze-for-Quantum-Machine-Learning.ipynb)
+3. [IBM Quantum Challenge Africa 20021](https://github.com/abdielgv162/Quantum_Computing/tree/master/IBM_Quantum_Challenge_Africa_2021)
+    1. [Crop-Yield Problem](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_Africa_2021/Lab_1_Crop-Yield-Problem.ipynb)
+    2. [Quantum speedups in finance](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_Africa_2021/Lab_2_Quantum_Speedups_in_Finance.ipynb)
+    3. [Quantum Chemistry for HIV](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_Africa_2021/Lab_3_Quantum_Chemistry_for_HIV.ipynb)
 
 
 
