@@ -16,22 +16,15 @@ Puedes encontrarme en:
 
 ---
 
-<div align="Center"><h1> Computación Cuántica </h1></div>
+<div align="Center"><h1> Quantum Computing </h1></div>
 <div align="center">
     <img src="https://miro.medium.com/max/2320/1*uWi50ye7CMZWZAGLytZ7xQ.gif">
 </div>
 
 ---
 
-Los programas están hechos en archivos de jupyter notebook (.ipynb) para hacer uso de markdown, LaTeX y ejecutar código en la misma interfaz.
 
-Dentro de cada sección se encuentran los notebooks y los programas en sus carpetas correspondientes en la parte superior.
-
----
-
-
-
-## Orden de contenidos
+## Table of Contents
 
 
 1. [IBM Quantum Challenge 2021](https://github.com/abdielgv163/Quantum_Computing/tree/master/IBM_Quantum_Challenge_2021)
@@ -66,10 +59,4 @@ Dentro de cada sección se encuentran los notebooks y los programas en sus carpe
 
 ---
 
-**NOTA**: Los cuadernos de jupyter contienen notación matemática en LaTeX, por lo que al visualizarlos en GitHub puede que parte de esa notación se vea diferente o mal escrita. Para leer el documento con mayor claridad se recomienda abrir el archivo en un entorno local de jupyter notebook o en plataformas como [IBM Quantum Experience](https://quantum-computing.ibm.com/). 
 
-Para poder abrir el archivo en local primero necesitamos tener instalado [Python](https://www.python.org/downloads/), [Anaconda](https://www.anaconda.com/) y [Jupyter Notebook](https://jupyter.org/). Jupyter se abre a través de tu consola de Anaconda, posicionandote en la carpeta de interés y entrando con el comando `jupyter notebook`.
-
-Adicionalmente, para estos noteboks necesitamos tener instaladas los módulos a utilizar como por ejemplo, [Numpy](https://numpy.org/), [Qiskit](https://qiskit.org/) y todas la que utilicemos en los programas.
-
-[Qiskit](https://qiskit.org/) es la librería de Python que nos permitirá correr los circuito cuánticos. En caso de no querer correr el archivo en local podemos utilizar la plataforma de [IBM Quantum Experience](https://quantum-computing.ibm.com/) en la sección de **IBM Quantum Lab**, un entorno donde ya tenemos la dependencias instaladas y solo nos concentraremos en importarlas y trabajar cómodamente.
