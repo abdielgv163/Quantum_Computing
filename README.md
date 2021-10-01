@@ -1,7 +1,7 @@
-### :purple_heart: Bienvenid@!  :purple_heart:
+### :purple_heart: Welcome!  :purple_heart:
 
 
-Puedes encontrarme en: 
+SM: 
 
 
 
