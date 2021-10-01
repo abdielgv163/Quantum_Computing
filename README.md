@@ -48,7 +48,7 @@
 
 ---
 
-### Materiales adicionales
+### Extra Material
 
 1. [Qiskit Textbook](https://qiskit.org/textbook/preface.html)
 2. [Qiskit Medium](https://medium.com/@qiskit)
