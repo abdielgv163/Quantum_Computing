@@ -43,7 +43,8 @@
     1. [Crop-Yield Problem](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_Africa_2021/Lab_1_Crop-Yield-Problem.ipynb)
     2. [Quantum speedups in finance](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_Africa_2021/Lab_2_Quantum_Speedups_in_Finance.ipynb)
     3. [Quantum Chemistry for HIV](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_Africa_2021/Lab_3_Quantum_Chemistry_for_HIV.ipynb)
-4. [IBM Quantum Challenge Fall 2021]()
+4. [IBM Quantum Challenge Fall 2021](https://github.com/abdielgv163/Quantum_Computing/tree/master/IBM_Quantum_Challenge_Fall_2021)
+    1.[Qiskit Finance - Optimizing your portfolio with quantum computers]()
 
 
 ---
