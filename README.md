@@ -48,6 +48,9 @@
    2. [Qiskit Nature: Band gap calculation of OLED molecules](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_Fall_2021/Qiskit_Nature_Band_gap_calculation_of_OLED_molecules.ipynb)
    3. [Qiskit Machine Learning - Image classification by QSVM](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_Fall_2021/Qiskit_Machine_Learning-Image_classification_by_QSVM.ipynb)
    4. [Qiskit Optimization - Battery Revenue Optimization (Until 4b)](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_Fall_2021/QiskitOptimization-Battery_Revenue_Optimization.ipynb)
+5. [IBM Quantum Spring Challenge 2022](https://github.com/abdielgv163/Quantum_Computing/tree/master/IBM_%20Quantum_Spring_Challenge%202022)
+    1. [Tight-binding model](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_%20Quantum_Spring_Challenge%202022/Exercise_1-Tight_binding_model.ipynb)
+
 
 
 ---
