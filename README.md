@@ -49,7 +49,7 @@
    3. [Qiskit Machine Learning - Image classification by QSVM](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_Fall_2021/Qiskit_Machine_Learning-Image_classification_by_QSVM.ipynb)
    4. [Qiskit Optimization - Battery Revenue Optimization (Until 4b)](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_Quantum_Challenge_Fall_2021/QiskitOptimization-Battery_Revenue_Optimization.ipynb)
 5. [IBM Quantum Spring Challenge 2022](https://github.com/abdielgv163/Quantum_Computing/tree/master/IBM_%20Quantum_Spring_Challenge%202022)
-    1. [Tight-binding model](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_%20Quantum_Spring_Challenge%202022/Exercise_1-Tight_binding_model.ipynb)
+    1. [Tight-binding model](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_%20Quantum_Spring_Challenge%202022/Exercise_1-Tight_binding_model_.ipynb)
     2. [Quantum Random Walks and Localization](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_%20Quantum_Spring_Challenge%202022/Exercise_2-Quantum_Random_Walks_and_Localization.ipynb)
     3. [Many-body quantum dynamics](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_%20Quantum_Spring_Challenge%202022/Exercise_3-Many_Body_Quantum_Dynamics.ipynb)
     4. [Using VQE On a Water Molecule](https://github.com/abdielgv163/Quantum_Computing/blob/master/IBM_%20Quantum_Spring_Challenge%202022/Exercise_4-Using_VQE_On_a_Water_Molecule.ipynb)
